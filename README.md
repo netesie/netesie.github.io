@@ -1,3 +1,3 @@
 # netesie.github.io
 
-Files for my Github Page
+Files for my Github Portfolio Page
